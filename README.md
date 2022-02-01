@@ -7,7 +7,7 @@ https://metrics.lecoq.io/about/Coopersec
 ![Metrics](/metrics.plugin.skyline.svg)
 
 
-- 👀 What is this?:
+- 👀 What is this? ...
 ```
 1: 🏻🌪🌍... 🌌
 2: 🌴🛸🍋 🍌🧁...🏰🔫👮🏼...👮🏼👻...👽👾👾🌄
