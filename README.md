@@ -1,9 +1,11 @@
 https://bazhful.github.io/
 - 👋 Hi, I’m @CooperSec
- 
-- 📢♻️ - Repo description is emoji encoded after table below.
 
-- 📕📗📘 Emoji Table = {
+![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
+ 
+- 📢♻️ **Repo description is emoji encoded after table below.**
+
+📕📗📘 _**Emoji Table**_ = **{
                   'Python' => 🐍, 🧬
                   'C#' => ⚗️,
                   'PHP' => 📱,
@@ -12,9 +14,8 @@ https://bazhful.github.io/
                   'Hacking' => 🎯🦠,
                   'Research' => 🧬,
                   'Other' => Looks
-                  }
-                  
-                
+                  }**
+     
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
