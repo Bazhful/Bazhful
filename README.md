@@ -1,5 +1,5 @@
 https://metrics.lecoq.io/about/Coopersec
-
+![Metrics](https://metrics.lecoq.io/coopersec?template=classic&config.timezone=Europe%2FStockholm)
 ## ~/Portfolio/Website -> https://coopersec.github.io/
 - 📢♻️ **Repo description is emoji encoded after table below.**
 
