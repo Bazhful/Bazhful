@@ -1,21 +1,8 @@
-https://bazhful.github.io/
-- 👋 Hi, I’m @CooperSec
-
-![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
- 
+## ~/Portfolio/Website -> https://bazhful.github.io/
 - 📢♻️ **Repo description is emoji encoded after table below.**
 
-📕📗📘 _**Emoji Table**_ = **{
-                  'Python' => 🐍, 🧬
-                  'C#' => ⚗️,
-                  'PHP' => 📱,
-                  'Go' => 🚁,
-                  'tools/scripts' => 🍋🧯,
-                  'Hacking' => 🎯🦠,
-                  'Research' => 🧬,
-                  'Other' => Looks
-                  }**
-     
+![carbon](https://github.com/Bazhful/Bazhful/blob/main/carbon(1).png)
+      
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
