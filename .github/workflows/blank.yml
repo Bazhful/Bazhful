@@ -45,6 +45,11 @@ jobs:
           plugin_stackoverflow_user: 1
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
+          plugin_posts: yes
+          plugin_posts_source: christopherek.dev
+          plugin_posts_limit: 2
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
