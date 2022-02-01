@@ -8,7 +8,15 @@ https://metrics.lecoq.io/about/Coopersec
 
 
 - 👀 What is this?:
-🧙🏻🌪🌍... 🌌...🌴🛸🍋 🍌🧁...🏰🔫👮🏼...👮🏼👻...👽👾👾🌄...👽💻🖲💾...🤖🤖🤖😰...💣⚔️🏴‍☠️🌏🌙...🌬❄️🍃...🐹🦥🦝🛑📉...🤖🚀..👨👩🙅🏻‍♀️🔈 🦴...🌆🌋🏝..."When the last blackhole evaporates, time loses all meaning"- 
+```
+1: 🏻🌪🌍... 🌌
+2: 🌴🛸🍋 🍌🧁...🏰🔫👮🏼...👮🏼👻...👽👾👾🌄
+3: 👽💻🖲💾...🤖🤖🤖😰...💣⚔️🏴‍☠️🌏🌙...🌬❄️🍃
+4: 🐹🦥🦝🛑📉...🤖🚀..👨👩🙅🏻‍♀️🔈 🦴
+5: 🌆🌋🏝...
+6: "When the last blackhole evaporates, time loses all meaning"-
+
+```
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -18,3 +26,8 @@ https://metrics.lecoq.io/about/Coopersec
 Bazhful/Bazhful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+      
+    
+
+    
