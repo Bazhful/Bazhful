@@ -43,11 +43,6 @@ jobs:
           plugin_stackoverflow_user: 1
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
-          plugin_lines: yes
-          plugin_skyline: yes
-          plugin_skyline_year: 2020
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
