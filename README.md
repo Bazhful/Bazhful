@@ -1,7 +1,7 @@
 ## ~/Portfolio/Website -> https://bazhful.github.io/
 - 📢♻️ **Repo description is emoji encoded after table below.**
 
-![carbon](https://github.com/Bazhful/Bazhful/blob/main/carbon(1).png)
+![carbon](https://github.com/Bazhful/Bazhful/blob/main/carbon(4).png)
       
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
