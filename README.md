@@ -5,6 +5,8 @@ https://metrics.lecoq.io/about/Coopersec
 ![carbon](https://github.com/coopersec/coopersec/blob/main/carbon(4).png)
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.habits.facts.svg)
+![Metrics](/metrics.plugin.skyline.svg)
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
