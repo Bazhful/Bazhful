@@ -6,7 +6,7 @@ https://metrics.lecoq.io/about/Coopersec
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.skyline.svg)
 
-### 🔰🔰 🧩🎮 🔰🔰...
+### 🔰🔰 🧩🎮 🔰🔰
 ```
 1: 🏻🌪🌍... 🌌
 2: 🌴🛸🍋 🍌🧁...🏰🔫👮🏼...👮🏼👻...👽👾👾🌄
