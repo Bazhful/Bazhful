@@ -1,6 +1,24 @@
 https://bazhful.github.io/
-
 - 👋 Hi, I’m @Bazhful
+
+- 📢♻️ - Repo description is emoji encoded after table below.
+
+- 📕📗📘 Emoji Table = {
+                  'Python' => 🐍,
+                  'C#' => ⚗️,
+                  'PHP' => 📱
+                  'Go' => 🚁
+                  ''
+| KEY  | VALUE |
+| -------------| ------------- |
+| Python  | 🐍  |
+| C#  | ⚗️     |
+| PHP | 📱  |
+| Go  | 🚁 |
+
+
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
