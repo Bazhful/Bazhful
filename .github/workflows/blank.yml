@@ -22,15 +22,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-            filename: metrics.plugin.habits.facts.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_habits: yes
-            plugin_habits_facts: yes
-            plugin_habits_charts: no
-            config_timezone: Europe/Paris
+      
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: lowlighter/metrics@v3.18
         with:
@@ -42,11 +34,16 @@ jobs:
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, repositories, ""
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           config_timezone: Europe/Paris
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 1
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 2
+          plugin_lines: yes
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
