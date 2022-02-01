@@ -1,10 +1,9 @@
 https://metrics.lecoq.io/about/Coopersec
-![Metrics](https://metrics.lecoq.io/coopersec?template=classic&config.timezone=Europe%2FStockholm)
 ## ~/Portfolio/Website -> https://coopersec.github.io/
 - 📢♻️ **Repo description is emoji encoded after table below.**
 
 ![carbon](https://github.com/coopersec/coopersec/blob/main/carbon(4).png)
-![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/coopersec?template=classic&config.timezone=Europe%2FStockholm)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
