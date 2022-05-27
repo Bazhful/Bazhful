@@ -2,7 +2,7 @@ https://metrics.lecoq.io/about/Coopersec
 ## ~/Portfolio/Website -> https://coopersec.github.io/ ([CH] Christopher [EK] EK [SUM] Summary -> https://cheksum.dev)
 - 📢♻️ **Repo description is emoji encoded after table below.**
 
-![carbon](https://github.com/coopersec/coopersec/blob/main/carbon(4).png)
+![carbon](https://github.com/coopersec/coopersec/blob/main/kod.png)
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.skyline.svg)
 
