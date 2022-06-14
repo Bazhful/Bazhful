@@ -1,7 +1,7 @@
 https://metrics.lecoq.io/about/Coopersec
-## ~/Portfolio/Website -> https://coopersec.github.io/ ([CH] Christopher [EK] EK [SUM] Summary -> https://oaksec.dev => Bonehard Security)
+## ~/Portfolio/Website -> https://coopersec.github.io/ ( -> https://oaksec.dev => personal portfolio)
 - 📢♻️ **Repo description is emoji encoded after table below.**
-
+![carbon]()
 ![carbon](https://github.com/coopersec/coopersec/blob/main/kod.png)
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.skyline.svg)
