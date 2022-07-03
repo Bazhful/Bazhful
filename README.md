@@ -3,8 +3,8 @@ https://metrics.lecoq.io/about/Coopersec
 - 📢♻️ **Repo description is emoji encoded after table below.**
 ![carbon]()
 ![carbon](https://github.com/coopersec/coopersec/blob/main/kod.png)
-![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.skyline.svg)
+
+
 
 ### 🔰🔰 🧩🎮 🔰🔰
 ```
