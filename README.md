@@ -3,8 +3,7 @@ I don't know what to have here.
 Instead I will just honor a readme of an awesome githuber.
 
 > https://github.com/wuseman
-
-
+```python
     _      Nr1`-._     `-.     `.   \      :      /   .'     .-'     _.-'      _
  `--._     `-._    `-.    `.  `.    :    .'  .'    .-'  Gentoo Power'     _.--'
       `--._    `-._   `-.   `.  \   :   /  .'   .-'   _.-'    _.--' .-'    _.-'
@@ -62,7 +61,7 @@ __    `--.__    `--._  `-._ `-. `. \ / .' .!!.--'    __
 
        You are free now, think different! Linux Power! // wuseman
 ###########################################################################
-
+```
 
     
 
