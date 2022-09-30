@@ -1,8 +1,9 @@
 ## > https://coopersec.github.io/
-I don't know what to have here.
+## > https://github.com/wuseman
+I don't know what to have here.<br>
 Instead I will just honor a readme of an awesome githuber.
 
-> https://github.com/wuseman
+
 ```python
     _      Nr1`-._     `-.     `.   \      :      /   .'     .-'     _.-'      _
  `--._     `-._    `-.    `.  `.    :    .'  .'    .-'  Gentoo Power'     _.--'
