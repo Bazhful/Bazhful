@@ -1,5 +1,6 @@
-## > https://coopersec.github.io/
-## > https://github.com/wuseman
+## > https://coopersec.github.io/ 
+> https://oaksec.dev/gitprofile
+> https://github.com/wuseman
 I don't know what to have here.<br>
 Instead I will just honor a readme of an awesome githuber.
 
