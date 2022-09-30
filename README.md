@@ -1,6 +1,6 @@
 ## > https://coopersec.github.io/ 
-> https://oaksec.dev/gitprofile
-> https://github.com/wuseman
+> https://oaksec.dev/gitprofile <br>
+> https://github.com/wuseman <br>
 I don't know what to have here.<br>
 Instead I will just honor a readme of an awesome githuber.
 
