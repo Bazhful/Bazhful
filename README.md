@@ -1,7 +1,7 @@
 ## > https://coopersec.github.io/ 
 ## > https://coopersec.github.io/gitprofile <br>
 
-I don't like to be a sellout I have integrity but I don't say no to money.
+I don't like to be a sellout I have integrity...<br> but I don't say no to money.<br>
 [Spare me a glass of wine?](https://www.buymeacoffee.com/oakcoffee)
 
 I don't know what to have here.<br>
